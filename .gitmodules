@@ -1,0 +1,6 @@
+[submodule "wbstore-frontend"]
+	path = wbstore-frontend
+	url = git@github.com:hydawn/wbstore-frontend.git
+[submodule "wbstore-backend"]
+	path = wbstore-backend
+	url = git@github.com:hydawn/wbstore-backend.git
